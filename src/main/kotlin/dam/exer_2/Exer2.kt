@@ -90,6 +90,9 @@ private fun printResult(expression: String, result: Int) {
     val binary = Integer.toBinaryString(result)
     val boolean = if (result != 0) "true" else "false"
 
+    // Binary was added despite not being explicitly requested in the exercise, as it provides a better way to visually
+    // validate the results of bitwise operations.
+
     println()
     println("+--------------------------+")
     println("| Expression : %-12s|".format(expression))
