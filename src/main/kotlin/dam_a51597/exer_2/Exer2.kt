@@ -1,4 +1,4 @@
-package dam.exer_2
+package dam_a51597.exer_2
 
 fun main() {
     println("Supported operations: +, -, *, /, &&, ||, !, shl, shr")

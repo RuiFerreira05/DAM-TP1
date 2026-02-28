@@ -1,4 +1,4 @@
-package dam.exer_1
+package dam_a51597.exer_1
 
 fun main() {
     val a = IntArray(50) { (it + 1) * (it + 1) } // int[]
