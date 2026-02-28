@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="purple_text">#6737B8</color>
+    <color name="purple_accent">#6200EF</color>
+    <color name="yellow_accent">#FFC201</color>
+    <color name="yellow_text">#9F7900</color>
+    <color name="background">#EEEFEF</color>
 </resources>
