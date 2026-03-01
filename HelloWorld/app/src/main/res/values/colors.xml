@@ -7,4 +7,10 @@
     <color name="yellow_accent">#FFC201</color>
     <color name="yellow_text">#9F7900</color>
     <color name="background">#EEEFEF</color>
+
+    <!-- Night colors -->
+    <color name="dark_background">#121212</color>
+    <color name="purple_text_night">#D0BCFF</color>
+    <color name="purple_accent_night">#381E72</color>
+    <color name="yellow_accent_night">#E3B000</color>
 </resources>
