@@ -2,12 +2,17 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.HelloWorld" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-        <item name="appBackgroundColor">@color/white</item>
-        <item name="headerBackground">@color/purple_accent</item>
-        <item name="headerTextColor">@color/white</item>
-        <item name="primaryTextColor">@color/purple_text</item>
-        <item name="subHeaderBackground">@color/yellow_accent</item>
-        <item name="subHeaderTextColor">@color/black</item>
+        <item name="colorPrimary">@color/purple_text</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/yellow_accent</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorOnBackground">@color/black</item>
+        <item name="colorSurface">@color/background</item>
+        <item name="colorOnSurface">@color/black</item>
+        <item name="colorTertiary">@color/purple_accent</item>
+        <item name="colorOnTertiary">@color/white</item>
+        <item name="android:statusBarColor">@color/purple_accent</item>
     </style>
 
     <style name="Theme.HelloWorld" parent="Base.Theme.HelloWorld" />
