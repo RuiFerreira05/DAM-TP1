@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Hello World V2</string>
-    <string name="hello_world">Hello Android World!</string>
-    <string name="first_app">My First App</string>
-    <string name="smiley_desc">Just Smile</string>
-    <string name="activity_oncreate_msg">Activity %1$s onCreate</string>
-</resources>
